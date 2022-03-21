@@ -1,0 +1,10 @@
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.deps.json
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.AssemblyReference.cache
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfoInputs.cache
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.AssemblyInfo.cs
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.csproj.CoreCompileInputs.cache
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\pzalaki3\source\repos\PortfolioApp\Lib.Core\obj\Debug\netcoreapp3.1\Lib.Core.pdb
